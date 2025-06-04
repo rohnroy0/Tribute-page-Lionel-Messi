@@ -27,7 +27,7 @@ This is a simple, responsive tribute webpage created using **HTML and CSS**, ded
 
 ## 🖼️ Preview
 
-![Uploading preview01.png…]()
+![Preview Image](https://github.com/rohnroy0/Tribute-page-Lionel-Messi/blob/main/preview01.png?raw=true)
 
 ---
 
